@@ -1,8 +1,10 @@
 # ToDo-react-app
 ~ Overview
+
 A simple and dynamic TODO application built with React.js to manage daily tasks. This project demonstrates core React concepts such as functional components, hooks, and event handling, while providing a clean and intuitive user interface.
 
 ~ Features
+
 Add new tasks with an input field and button
 
 Delete tasks dynamically from the list
@@ -14,6 +16,7 @@ Responsive design with CSS (extendable to Bootstrap 5)
 Clean and modular code structure for scalability
 
 ~ Tech Stack
+
 React.js (functional components, hooks)
 
 JavaScript (ES6+)
@@ -23,6 +26,7 @@ HTML5 & CSS3
 Bootstrap 5 (optional for styling)
 
 ~ Project Structure
+
 Code
 todo-app/
 ├── public/              # Static files (index.html, favicon, etc.)
@@ -34,6 +38,7 @@ todo-app/
 ├── package.json         # Dependencies and scripts
 
 ~ Installation & Setup
+
 Clone the repository:
 
 bash
@@ -53,6 +58,7 @@ Code
 http://localhost:3000
 
 ~ Future Enhancements
+
 Mark tasks as completed with checkboxes
 
 Edit existing tasks
@@ -62,6 +68,7 @@ Persist tasks using localStorage or backend API
 Add filters (All / Completed / Pending)
 
 ~ Learning Outcomes
+
 Hands‑on experience with React Hooks (useState)
 
 Understanding of component structure and event handling
